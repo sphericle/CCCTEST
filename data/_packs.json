@@ -1,16 +1,5 @@
 [		
 
-
-   {
-		"name": "Balls Pack",
-		"difficulty": 2,
-		"levels": [
-			"Druski Never Clear",
-			"U10",
-			"Conix Hates Bloodbath"
-    ]
-
-
 	},
 	{
 		"name": "Beginner Pack",
@@ -43,5 +32,10 @@
 	{
 		"name": "Legendary Pack",
 		"difficulty": 7
+		"levels": [
+			"Druski Never Clear",
+			"U10",
+			"Conix Hates Bloodbath"
+		]
 	}
 ]
