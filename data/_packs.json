@@ -1,1 +1,47 @@
+[		
 
+
+   {
+		"name": "Balls Pack",
+		"difficulty": 2,
+		"levels": [
+			"Druski Never Clear",
+			"U10",
+			"Conix Hates Bloodbath"
+    ]
+
+
+	},
+	{
+		"name": "Beginner Pack",
+		"difficulty": 0
+	},
+	{
+		"name": "Easy Pack",
+		"difficulty": 1
+	},
+	{
+		"name": "Medium Pack",
+		"difficulty": 2
+	},
+	{
+		"name": "Hard Pack",
+		"difficulty": 3
+	},
+	{
+		"name": "Insane Pack",
+		"difficulty": 4
+	},
+	{
+		"name": "Mythical Pack",
+		"difficulty": 5
+	},
+	{
+		"name": "Extreme Pack",
+		"difficulty": 6
+	},
+	{
+		"name": "Legendary Pack",
+		"difficulty": 7
+	}
+]
