@@ -67,7 +67,6 @@ export default {
                     <hr class="divider">
                     <Staff />
                     <hr class="divider">
-                    <hr class="divider">
                     <RecordRules />
                     <hr class="divider">
                     <DifficultyInfo />
