@@ -31,13 +31,5 @@
 	{
 		"name": "Legendary Pack",
 		"difficulty": 7
-<<<<<<< HEAD
-=======
-		"levels": [
-			"Druski Never Clear",
-			"U10",
-			"Conix Hates Bloodbath"
-		]
->>>>>>> parent of c8d18cc59 (Update _packs.json)
 	}
 ]
